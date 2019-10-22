@@ -1,0 +1,32 @@
+.thumbnail img{
+    height: 200px;
+}
+
+.thumbnail .description{
+color:white ;
+}
+
+.price{
+    font-weight: 700;
+    font: 30px;
+    color: white;
+}
+
+body{
+     background:linear-gradient(to right,#c04848, #480048);  
+}
+
+.thumbnail{
+    background: transparent;
+}
+.thumbnail .title{
+    color: white;
+}
+
+.checkout{
+    color: white;
+}
+
+.amt{
+    color : white;
+}
